@@ -1,0 +1,6 @@
+{
+  "name": "TaskForge",
+  "description": "TaskForge - Forge Productivity, Finish Strong. A proactive, AI-driven assistant that helps you plan, prioritize, and complete commitments with smart recommendations, context-aware reminders, and habit tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
